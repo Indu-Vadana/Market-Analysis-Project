@@ -1,2 +1,7 @@
 .DS_Store
 .vercel
+
+# Local assistant state and shareable build artifacts
+.claude/
+.superpowers/
+*.zip
